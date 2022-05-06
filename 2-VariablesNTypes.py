@@ -3,6 +3,8 @@
 # Friday May 6 2022 
 # TEJ4M1 P2
 
+## Code that compiles with errors commented out
+
 # Numbers 
 # Two types of numbers in python, integers and floats
 
@@ -32,4 +34,11 @@ print(String1 + " " + String2)
 # Simultaneous Declarations
 x, y = 1, 2
 print(x,y)
+
+# Note that you cannot mix types
+# Ex.
+# String1, String2 = "Hello", "World"
+# one = 1
+# print(String1 + String2 + one)
+# ^ This print statement would result in an error
 
