@@ -1,5 +1,5 @@
 # Duran Ramlall 
-# Learn Python - Arithmetic Operaators
+# Learn Python - String Formatting
 # Friday May 6 2022 
 # TEJ4M1 P2
 
